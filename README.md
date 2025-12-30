@@ -1,4 +1,4 @@
-# 📊 LLM Evaluation & Benchmarking Framework
+# LLM Evaluation & Benchmarking Framework
 
 ## Overview
 This project demonstrates a systematic framework for evaluating
